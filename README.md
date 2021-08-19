@@ -1,4 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![Stars][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
@@ -147,12 +146,11 @@ Any contributions you make are **greatly appreciated**
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/yxor/translate-json.svg?style=for-the-badge
+[forks-url]: https://github.com/yxor/translate-json/network/members
+[stars-shield]: https://img.shields.io/github/stars/yxor/translate-json.svg?style=for-the-badge
+[stars-url]: https://github.com/yxor/translate-json/stargazers
+[issues-shield]: https://img.shields.io/github/issues/yxor/translate-json.svg?style=for-the-badge
+[issues-url]: https://github.com/yxor/translate-json/issues
+[license-shield]: https://img.shields.io/github/license/yxor/translate-json.svg?style=for-the-badge
+[license-url]: https://github.com/yxor/translate-json/blob/master/LICENSE.md
