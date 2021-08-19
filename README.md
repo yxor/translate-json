@@ -153,4 +153,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/yxor/translate-json.svg?style=for-the-badge
 [issues-url]: https://github.com/yxor/translate-json/issues
 [license-shield]: https://img.shields.io/github/license/yxor/translate-json.svg?style=for-the-badge
-[license-url]: https://github.com/yxor/translate-json/blob/master/LICENSE.md
+[license-url]: https://github.com/yxor/translate-json/blob/master/LICENSE
