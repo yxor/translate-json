@@ -5,14 +5,16 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="translate_json",
-    version="0.0.1",
+    version="0.0.2",
     author="Ahmed Tounsi",
     author_email="ahmeddottounsi@gmail.com",
     description="This is a command line tool to translate all string values in a JSON file to multiple languages using the Google Cloud Translate API.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/yxor/translate-json",
-    project_urls={"Bug Tracker": "https://github.com/yxor/translate-json/issues",},
+    project_urls={
+        "Bug Tracker": "https://github.com/yxor/translate-json/issues",
+    },
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
