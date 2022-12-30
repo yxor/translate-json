@@ -11,7 +11,7 @@ def open_json(path: str) -> Dict:
 
 def save_json(o: Dict[str, Any], path: str) -> None:
     with open(path, "w") as f:
-        f.write(json.dumps(o))
+        f.write(json.dumps(o, ensure_ascii=False))
 
 
 def translation_path(original_path: str, language: str) -> str:

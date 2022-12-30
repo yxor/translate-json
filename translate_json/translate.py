@@ -22,8 +22,11 @@ def translate(value: str, source: str, target: str) -> str:
     translation = json.loads(r.content)
 
     if not translation.get("data") or not translation["data"].get("translations"):
+        
+        logging.error(f"API Error: {translation}");
+
         raise TranslationError(
-            "Error getting the data from google translate API, make sure you are using a valid API key"
+            "Error getting the data from google translate API, make sure you are using valid API key and language codes"
         )
 
     return translation["data"]["translations"][0].get("translatedText")
