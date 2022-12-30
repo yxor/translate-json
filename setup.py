@@ -24,7 +24,7 @@ setup(
     python_requires=">=3.9",
     scripts=["bin/translate-json.py"],
     install_requires=[
-        "certifi==2021.5.30",
+        "certifi==2022.12.7",
         "charset-normalizer==2.0.4; python_version >= '3'",
         "idna==3.2; python_version >= '3'",
         "python-dotenv==0.19.0",
